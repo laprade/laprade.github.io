@@ -43,7 +43,8 @@ html {
 }
 
 body {
-  font-family: 'Noto Serif', serif;
+  /* font-family: 'Noto Serif', serif; */
+  font-family: freight-text-pro, Georgia, Cambria, 'Times New Roman', Times, serif;
   color: #3a4145;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
@@ -90,7 +91,7 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 2rem;
+  font-size: 1.75rem;
 }
 h2 {
   margin-top: 1rem;
@@ -151,9 +152,10 @@ abbr[title] {
 
 /* Code */
 /* code,
-# pre {
-#  font-family: Menlo, Monaco, "Courier New", monospace;
-} */
+ pre {
+  font-family: Menlo, Monaco, "Courier New", monospace;
+} Original Pool Code Commented Out */
+
 code {
   /* padding: .25em .5em; */
   /* font-size: 85%; Original Pool Code Commented Out*/
@@ -342,6 +344,7 @@ tbody tr:nth-child(odd) th {
 .post-title,
 .post-title a {
   color: #3a4145;
+  font-size: 1.75rem;
 }
 .page-title,
 .post-title {

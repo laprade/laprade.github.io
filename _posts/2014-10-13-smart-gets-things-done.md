@@ -3,13 +3,15 @@ layout: post
 title: Smart & Gets Things Done by Joel Spolsky - Notes
 ---
 
-These are my personal notes that I have taken while reading [Smart & Gets Things Done](http://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385/) by Joel Spolsky that I wanted to remember for future reference. This isn’t meant to be a Cliff Notes version or a substitute for reading the book.  I picked this book up after hearing Rob Mallery mention it on [Rocketship.fm #67](http://rocketship.fm/episodes/ep-67-rob-mallery/). 
+These are my personal notes that I have taken while reading [Smart & Gets Things Done](http://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385/) by Joel Spolsky that I wanted to remember for future reference. This isn’t meant to be a Cliff Notes version or a substitute for reading the book.  I picked this book up after hearing Rob Mallery mention it on [Rocketship.fm #67](http://rocketship.fm/episodes/ep-67-rob-mallery/).
 
 Additional notes I've taken while reading other books can be found [here](http://laprade.org/book-notes/).
 
 ## Hitting the high notes
 
 > In some industries, cheap is more important than good.  Wal-Mart grew to be the biggest corporation on earth by selling cheap products, not good products.  If Wal-Mart tried to sell high-quality goods, their costs would go up, and their whole cheap advantage would be lost.
+
+<!-- more -->
 
 ### Productivity
 
