@@ -1,0 +1,28 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Alex LaPrade
+url:              http://laprade.org
+shorturl:         laprade.org
+paginate:         5
+baseurl:          /
+author:
+  name:           'Alex LaPrade'
+  url:            http://laprade.org
+  email:          alex@laprade.org
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:
+
+pages_list:
+  About: '/about/'
+  Book Notes: '/book-notes/'
+  Blog Posts: '/blog-posts/'
+  Contact: '/contact/'
+
+# Look at => Allow URL Redirects:
+#  * https://help.github.com/articles/redirects-on-github-pages
