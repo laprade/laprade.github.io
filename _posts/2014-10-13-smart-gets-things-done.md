@@ -7,6 +7,10 @@ These are my personal notes that I have taken while reading [Smart & Gets Things
 
 Additional notes I've taken while reading other books can be found [here](http://laprade.org/book-notes/).
 
+```
+Triple Backticks
+```
+
 ## Hitting the high notes
 
 > In some industries, cheap is more important than good.  Wal-Mart grew to be the biggest corporation on earth by selling cheap products, not good products.  If Wal-Mart tried to sell high-quality goods, their costs would go up, and their whole cheap advantage would be lost.
