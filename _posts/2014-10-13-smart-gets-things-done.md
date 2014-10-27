@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Smart & Gets Things Done by Joel Spolsky - Notes
+title: Smart & Gets Things Done by Joel Spolsky
 ---
 
 These are my personal notes that I have taken while reading [Smart & Gets Things Done](http://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385/) by Joel Spolsky that I wanted to remember for future reference. This isn’t meant to be a Cliff Notes version or a substitute for reading the book.  I picked this book up after hearing Rob Mallery mention it on [Rocketship.fm #67](http://rocketship.fm/episodes/ep-67-rob-mallery/).
