@@ -221,5 +221,5 @@ The goal is to create a cohesive, gelled team that feels like a family, so peopl
 
 This requires giving people the necessary information to steer the organization in the right direction.
 
-![Smart & Gets Things Done by Joel Spolsky](http://laprade.org/wp-content/uploads/2014/10/2014-10-13-08.51.02.jpg)
-_Photo taken with [VSCOcam](http://vscocam.co/)_
+![Smart & Gets Things Done by Joel Spolsky](https://c4.staticflickr.com/8/7505/15033868563_759344edcf_b.jpg)
+_Photo taken with [VSCOcam](http://vsco.co/)_
