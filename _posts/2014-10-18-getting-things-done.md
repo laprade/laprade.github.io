@@ -8,13 +8,15 @@ These are my personal notes for future reference I took reading [Getting Things 
 
 Additional notes I've taken while reading other books can be found [here](/book-notes/).
 
+<!-- more -->
+
 ## Two Key Objectives
 
 (1) Capture all things that need to get done - now or later, big or small - into a logical and trusted system outside of your head and off your mind
 
 (2) Discipline yourself to make decisions about your inputs so that you always have a plan for next actions.
 
-<!-- more -->
+
 
 ### Dealing Effectively with Internal Commitments
 

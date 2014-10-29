@@ -6,7 +6,7 @@ permalink: smart-and-gets-things-done
 
 These are my personal notes that I have taken while reading [Smart & Gets Things Done](http://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385/) by Joel Spolsky that I wanted to remember for future reference. This isn’t meant to be a Cliff Notes version or a substitute for reading the book.  I picked this book up after hearing Rob Mallery mention it on [Rocketship.fm #67](http://rocketship.fm/episodes/ep-67-rob-mallery/).
 
-Additional notes I've taken while reading other books can be found [here](http://laprade.org/book-notes/).
+Additional notes I've taken while reading other books can be found [here](/book-notes/).
 
 ## Hitting the high notes
 

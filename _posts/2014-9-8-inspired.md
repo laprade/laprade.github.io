@@ -6,7 +6,7 @@ permalink: inspired
 
 These are my personal notes for future reference I took reading [Inspired: How To Create Products Customers Love](http://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/0981690408) by Marty [Cagan](https://twitter.com/cagan). This isn’t meant to be a Cliff Notes version or replacement for reading the book.  Chapter number is in parenthesis with the header (for future reference).  Especially important things are highlighted.
 
-Additional notes I've taken while reading other books can be found [here](http://laprade.org/book-notes/).
+Additional notes I've taken while reading other books can be found [here](/book-notes/).
 
 <!-- more -->
 

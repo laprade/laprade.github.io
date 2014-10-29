@@ -11,24 +11,24 @@ These aren’t meant to be a Cliff’s Notes version or substitute for reading t
 
 [Digital Body Language](http://laprade.org/digital-body-language/) by Steven Woods
 
-[The Effective Executive](http://laprade.org/effective-executive/) by Peter Drucker
+[The Effective Executive](/effective-executive/) by Peter Drucker
 
 [Getting Real](http://laprade.org/getting-real) by 37 Signals
 
 [Getting Things Done](/getting-things-done/) by David Allen
 
-[Inspired: How To Create Products Customers Love](http://laprade.org/inspired/) by Marty Cagan
+[Inspired: How To Create Products Customers Love](/inspired/) by Marty Cagan
 
-[Only the Paranoid Survive](http://laprade.org/only-the-paranoid-survive/) by Andy Grove
+[Only the Paranoid Survive](/only-the-paranoid-survive/) by Andy Grove
 
 [Slicing Pie](http://laprade.org/slicing-pie/) by Mike Moyer
 
-[Smart & Gets Things Done](http://laprade.org/smart-and-gets-things-done/) by Joel Spolsky
+[Smart & Gets Things Done](/smart-and-gets-things-done/) by Joel Spolsky
 
 [Startup Communities](http://laprade.org/startup-communities/) by Brad Feld
 
-[Traction: A Startup Guide to Getting Customers](http://laprade.org/traction/) by Gabriel Weinberg and Justin Mares
+[Traction: A Startup Guide to Getting Customers](/traction/) by Gabriel Weinberg and Justin Mares
 
-[The Ultralight Startup](http://laprade.org/ultralight-startup/) by Jason L. Baptiste
+[The Ultralight Startup](/ultralight-startup/) by Jason L. Baptiste
 
 [What the Most Successful People Do Before Breakfast](http://laprade.org/what-the-most-successful-people-do-before-breakfast/) by Laura Vanderkam

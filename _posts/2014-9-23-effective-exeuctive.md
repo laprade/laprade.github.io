@@ -8,13 +8,15 @@ These are my personal notes that I have taken while reading [The Effective Execu
 
 This isn’t meant to be a Cliff Notes version or a substitute for reading the book. Especially important things are highlighted.  I chose to read this book since [it's one of three books Jeff Bezos makes all of his top execs read](http://www.linkedin.com/today/post/article/20130925133311-291225-amazon-ceo-jeff-bezos-had-his-top-execs-read-these-three-books).
 
-Additional notes I've taken while reading other books can be found [here](http://laprade.org/book-notes/).
+Additional notes I've taken while reading other books can be found [here](/book-notes/).
 
-# Effectiveness can be learned
+<!-- more -->
+
+## Effectiveness can be learned
 
 The executive is expected _get the right things done_.  Brilliant men are often ineffectual.  They fail to realize that brilliant insight is not by itself achievement.
 
-## Why do we need to be effective?
+### Why do we need to be effective?
 
 For manual work, we only only need to be efficient: the ability to do things right than than the ability to get the right things done.  The manual worker is always judged by the quantity and quality of his/her definable and discrete output (e.g. a pair of shoes).
 
@@ -24,9 +26,9 @@ Knowledge work is not defined by quantity or its costs - it's defined by its res
 
 Consider the example of a market research manager that has a staff of two hundred people versus the manager who only has himself.  The man with two hundred men may be overwhelmed by all the problems two hundred men bring to their work.  He may be so busy "managing" that he may have no time for market research and fundamental decisions (like "what does 'our market' really mean?").
 
-<!--more Continue reading my notes from "The Effective Executive"-->
 
-## The five principles
+
+### The five principles
 
 1. Effective executives know where their time goes.
 2. Effective executives focus on outward contribution.  They focus their efforts to results than than doing work.  They start with the question "what results are expected of me?" rather than the work to be done.
@@ -34,7 +36,7 @@ Consider the example of a market research manager that has a staff of two hundre
 4. Effective executives concentrate on the few major areas where superior performance will produce outstanding results.  They force themselves to set priorities and stay with their priority decisions.  They do the first things first and the second things not at all.
 5. Effective executives make effective decisions.  This is a matter of system and taking the right steps in a sequence.
 
-# Know Thy Time
+## Know Thy Time
 
 Do not start with your tasks.  Start with your time.  Find out where your time actually goes and then manage your time to cut back unproductive demands on your time.
 
@@ -48,7 +50,7 @@ Therefore, to be effective - an executive needs to dispose of time in fairly lar
 
 To spend only a few minutes with people is not productive. The manager who thinks he can discuss the plans, direction and performance of one of his subordinates in fifteen minutes is just deceiving himself.
 
-## The "Span of Control"
+### The "Span of Control"
 
 The "span of control" asserts that one man can manage only a few people if these people have to come together in their own work.
 
@@ -56,7 +58,7 @@ On the other hand, managers of chain stores in different cities do not have to w
 
 When more people have to work together, more time is spent on "interacting" rather than work and accomplishment.
 
-## Systematic Time Management
+### Systematic Time Management
 
 Once an executive knows where his time is going, systematic time management is the next step. Find the nonproductive, time wasting activities and get rid of them if he possibly can.
 
@@ -70,7 +72,7 @@ Time wasters often result from overstaffing.  A first grade arithmetic question 
 
 In first grade, the correct answer is of course "one day."  However, in the kind of work executives are concerned, the correct answer may be four days or forever.
 
-## Potential Solutions
+### Potential Solutions
 
 Some people work from home once per week.  Others schedule all the operating work for two days per week (e.g. Monday and Friday) and set aside the mornings of the remaining days for consistent, continuing work on major issues.
 
@@ -78,7 +80,7 @@ Some spend ninety minutes every morning before going to work in a study without 
 
 Effective executives estimate how much discretionary time they can realistically call their own and then set aside continuous time in the appropriate amount.
 
-# What can I contribute?
+## What can I contribute?
 
 > What can I contribute that will significantly affect the performance and the results of the institution I serve?
 
@@ -90,7 +92,7 @@ The answer shouldn't be "I run the accounting department" or "I have 850 people 
 
 A better answer is: "it's my job to give our managers the information they need to make the right decisions" or "I am responsible for finding out what products the customer will want tomorrow."
 
-## Self Development
+### Self Development
 Individual self-development in large measure depends on the focus on contributions.
 
 When asking "what is the most important contribution I can make to the performance of this organization?", one is essentially asking:
@@ -101,7 +103,7 @@ What knowledge or skill do I have to acquire to make the contribution I should b
 
 > `People in general, and knowledge works in particular, grow according to the demands they make on themselves.  They grow according to what they consider to be achievement and attainment.  If they demand little of themselves, they will remain stunted`.
 
-# Making Strength Productive
+## Making Strength Productive
 
 To achieve results, one has to use all the available strengths - the strengths of the associates, the superior and one's own strengths.
 
@@ -139,7 +141,7 @@ Above all, the effective executive tries to make fully productive the strengths 
 - What has he done really well (in the past)?
 - What does he need to know to use his strength?
 
-# First Things First
+## First Things First
 
 Effective executives do first things first and they do one thing at a time.  Effective executives know there is always a time deficit.  Doing one thing at a time means doing it fast.  The more one can concentrate time, effort and resources, the greater the number and diversity of tasks one can actually perform.
 
@@ -179,7 +181,7 @@ The job is not to set priorities.  That is easy.  Everybody can do it.  Few exec
 
 Most executives have learned that what one postpones, one actually abandons.  There is nothing less desirable than taking up later a project one has postponed when it first came up.  The timing is almost always bound to be wrong, and timing is a most important factor in the success of any effort.
 
-# The Elements of Decision Making
+## The Elements of Decision Making
 
 Make is clear what the decision has to accomplish.
 
@@ -201,7 +203,7 @@ and
 
 In the first example, the boundary conditions are still being satisfied.  The purpose of bread is to provide food, and half a loaf is still food.  However, half a baby does not satisfy the boundary conditions.
 
-# Effective Decisions
+## Effective Decisions
 
 A decision is a judgement - a choice between alternatives.  It is rarely a choice between right and wrong.  At best, it's a choice between "almost right" and "probably wrong" - but much more often a choice between two courses of action neither of which is provably more nearly right than the other.
 
@@ -215,5 +217,5 @@ The effective decision maker either acts or he doesn't.  He does not take half a
 
 `Executives are not paid for doing things they like to do.  They are paid for getting the right things done` - most of all in their specific task, the making of effective decisions.
 
-<a href="http://laprade.org/wp-content/uploads/2014/09/The-Effective-Executive.jpg"><img src="http://laprade.org/wp-content/uploads/2014/09/The-Effective-Executive.jpg" alt="The Effective Executive by Peter Drucker" width="100%" class="aligncenter size-full wp-image-831" /></a>
+!["The Effective Executive by Peter Drucker"](https://farm4.staticflickr.com/3955/15474219649_8544375f94_c.jpg)
 _Photo taken with [VSCOcam](http://vsco.co/)._

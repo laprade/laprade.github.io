@@ -37,8 +37,6 @@ _-Naval Ravikant_
 18. Speaking Engagements
 19. Community Building
 
-<!--more Continue reading my notes from "Traction"-->
-
 ## The Bullseye Framework
 > [You] probably won't have a bunch of equally good distribution strategies... It is very likely that oen channel is optimal... Poor distribution - not product - is the number one cause of failure. If you can get even a single distribution channel to work, you have great business... So it's worth thinking really hard about finding the single best distribution channel.
 
@@ -308,7 +306,7 @@ _-Kris Jones, founder of Pepperjam_
 - YouTube got its initial traction by filling gaps in MySpace (uploading and embedding videos).
 - Bit.ly - link shortening on Twitter
 - Imgur - image hosting for reddit users
--
+
 ### Other Platforms
 
 Craigslist customers who used AirBNB found it was a much simpler and safer solution, so AirBNB build "Post to Craigslist" feature that would allow you to list your bed on Craigslist.
@@ -410,5 +408,4 @@ Alexis Ohanian would personally mail individual reddit users, thanking them for 
 
 **Ensure Quality**: Stack Overflow had strict guidelines from the start so that only practical, answerable questions would be allowed.
 
-<a href="http://laprade.org/wp-content/uploads/2014/09/Evernote-Camera-Roll-20140916-110808.jpg"><img src="http://laprade.org/wp-content/uploads/2014/09/Evernote-Camera-Roll-20140916-110808.jpg" alt="Traction: A Startup Guide to Getting Customers" width="100%" class="aligncenter size-full wp-image-823" /></a>
-_Photo taken with VSCOcam_
+!["Traction: A Startup Guide to Getting Customers" by Gabriel Weinberg & Justin Mares](https://farm4.staticflickr.com/3943/15658227541_a229426914_c.jpg)
