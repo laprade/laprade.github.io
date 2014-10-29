@@ -6,7 +6,7 @@ permalink: getting-things-done
 
 These are my personal notes for future reference I took reading [Getting Things Done](http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280) by David Allen. Framed another way, it could be said "these are the things I learned reading this book." This isn’t meant to be a Cliff Notes version or replacement for reading the book.
 
-Additional notes I've taken while reading other books can be found [here](http://laprade.org/book-notes/).
+Additional notes I've taken while reading other books can be found [here](/book-notes/).
 
 ## Two Key Objectives
 
