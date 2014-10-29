@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Inspired: How To Create Products Customers Love by Marty Cagan
+title: Inspired - How To Create Products Customers Love by Marty Cagan
 permalink: inspired
 ---
 
 These are my personal notes for future reference I took reading [Inspired: How To Create Products Customers Love](http://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/0981690408) by Marty [Cagan](https://twitter.com/cagan). This isn’t meant to be a Cliff Notes version or replacement for reading the book.  Chapter number is in parenthesis with the header (for future reference).  Especially important things are highlighted.
 
 Additional notes I've taken while reading other books can be found [here](http://laprade.org/book-notes/).
+
+<!-- more -->
 
 ## Introduction
 It doesn't matter how good your engineering team is if they aren't given something worthwhile to build.  You shouldn't be spending time/money on a product that we don't know users and customers want.
@@ -21,9 +23,7 @@ It doesn't matter how good your engineering team is if they aren't given somethi
 7. Product ideas must be tested - early and often - on actual target users in order to come up with a product that is valuable and usable.
 8. High fidelity prototypes are necessary to quickly, easily and frequently test our ideas on real users.
 9. The PM needs to identify the minimum possible product that meets the objectives (valuable, usable and feasible) minimizing time to market and user complexity.
-10. Once the minimal successful product has been discovered and validated, it is not something that can be piecemealed and expect the same results.
-
-<!--more Continue reading my notes from "Inspired"-->
+10. Once the minimal successful product has been discovered and validated, it is not something that can be piece mealed and expect the same results.
 
 ## Key Roles & Responsibilities (1)
 The product manager has two key responsibilities (1) accessing product opportunities and (2) defining the product to be built.  Ideas can come from anywhere, but the PM's job is to take a hard look and decide if something is worth pursuing.

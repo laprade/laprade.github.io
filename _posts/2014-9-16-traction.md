@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Traction: A Startup Guide to Getting Customers by Gabriel Weinberg & Justin Mares
+title: Traction - A Startup Guide to Getting Customers by Gabriel Weinberg & Justin Mares
 permalink: traction
 ---
 
-These are my personal notes that I have taken from reading [Traction: A Startup Guide to Getting Customers](http://www.http://tractionbook.com/) by Gabriel Weinberg and Justin Mares. This isn’t meant to be a Cliff Notes version or a substitute for reading the book, so please support the authors and buy a copy of the book.
+These are my personal notes that I have taken reading [Traction: A Startup Guide to Getting Customers](http://www.http://tractionbook.com/) by Gabriel Weinberg and Justin Mares. This isn’t meant to be a Cliff Notes version or a substitute for reading the book, so please support the authors and buy a copy of the book.
 
-Additional notes I've taken while reading other books can be found [here](http://laprade.org/book-notes/).
+Additional notes I've taken while reading other books can be found [here](/book-notes/).
+
+<!-- more -->
 
 ## Traction Channels
 > Traction is basically quantitative evidence of customer demand. So if you're in enterprise software, [initial traction] may be two or three early customers who are paying a bit; if you're in consumer software the bar might be as high as hundreds of thousands of users.
