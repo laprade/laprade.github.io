@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Getting Things Done"" by David Allen
+title: Getting Things Done by David Allen
 permalink: getting-things-done
 ---
 
-These are my personal notes that I have taken while reading [Getting Things Done](http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280) by David Allen that I wanted to remember for future reference. Framed another way, it could be said "these are the things I learned reading this book." This isn’t meant to be a Cliff Notes version or a substitute for reading the book.
+These are my personal notes for future reference I took reading [Getting Things Done](http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280) by David Allen. Framed another way, it could be said "these are the things I learned reading this book." This isn’t meant to be a Cliff Notes version or replacement for reading the book.
 
 Additional notes I've taken while reading other books can be found [here](http://laprade.org/book-notes/).
 
@@ -14,7 +14,7 @@ Additional notes I've taken while reading other books can be found [here](http:/
 
 (2) Discipline yourself to make decisions about your inputs so that you always have a plan for next actions.
 
-<!-- More -->
+<!-- more -->
 
 ### Dealing Effectively with Internal Commitments
 
@@ -137,9 +137,9 @@ Even if the second item down is a personal note from the president of the US and
 
 Emergency scanning is not processing.  Most people look for the most urgent, most fun, or most interesting stuff to do first.  It’s sometimes necessary but isn’t processing.
 
-`When you’re in processing mode, you must get into the habit of starting at one end and just cranking through items one at a time, in oder.`
+`When you’re in processing mode, you must get into the habit of starting at one end and just cranking through items one at a time, in order`.
 
-`Process items first in first out (FIFO).`
+`Process items first in first out (FIFO)`.
 
 Key processing question - “what’s the next action?"
 

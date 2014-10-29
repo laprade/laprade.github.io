@@ -15,6 +15,8 @@ These aren’t meant to be a Cliff’s Notes version or substitute for reading t
 
 [Getting Real](http://laprade.org/getting-real) by 37 Signals
 
+[Getting Things Done](/getting-things-done/) by David Allen
+
 [Inspired: How To Create Products Customers Love](http://laprade.org/inspired/) by Marty Cagan
 
 [Only the Paranoid Survive](http://laprade.org/only-the-paranoid-survive/) by Andy Grove
