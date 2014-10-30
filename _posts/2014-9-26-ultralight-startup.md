@@ -8,6 +8,8 @@ These are my personal notes that I have taken while reading [The Ultralight Star
 
 Additional notes I've taken while reading other books can be found [here](http://laprade.org/book-notes/).
 
+<!-- more -->
+
 ## It all starts with an idea
 
 Some of the best startups are from recognizing problems at your current employer.  Take advantage of these gaps.
@@ -16,7 +18,7 @@ One such gap is how Apple got started.  Steve Wozniak wanted to create a compute
 
 When Woz checked with his employer at the time (HP) and asked if he could continue the project or whether HP wanted the rights to what would become Apple Computer, he was told "no one will ever want a personal computer."
 
-<!-- more -->
+
 
 ### Do something that used to be impossible
 

@@ -8,11 +8,11 @@ These are my personal notes that I have taken while reading [Only the Paranoid S
 
 Additional notes I've taken while reading other books can be found [here](/book-notes/).
 
+<!-- more -->
+
 ## Only the Paranoid Survive
 
 > Business success contains the seeds of its own destruction.  The more successful you are, the more people want a chunk of your business and then another chunk and then another until there is nothing left.  I believe that the prime responsibility of a manager is to guard constantly against other people's attacks and to include this guardian attitude in people under his or her management.
-
-<!-- more -->
 
 What is a strategic inflection point?
 
