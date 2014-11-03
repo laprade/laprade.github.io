@@ -9,7 +9,7 @@ These aren’t meant to be a Cliff’s Notes version or substitute for reading t
 
 [Always Eat Left Handed: 15 Surprisingly Simple Secrets Of Success](http://laprade.org/always-eat-left-handed/) by Rohit Bhargava
 
-[Digital Body Language](http://laprade.org/digital-body-language/) by Steven Woods
+[Digital Body Language](/digital-body-language/) by Steven Woods
 
 [The Effective Executive](/effective-executive/) by Peter Drucker
 
