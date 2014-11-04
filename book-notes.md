@@ -7,7 +7,9 @@ I take notes on everything that I think I might want to reference again in the f
 
 These aren’t meant to be a Cliff’s Notes version or substitute for reading the book. Please support the author(s) and buy a copy of their book(s).
 
-[Always Eat Left Handed: 15 Surprisingly Simple Secrets Of Success](http://laprade.org/always-eat-left-handed/) by Rohit Bhargava
+[Always Eat Left Handed: 15 Surprisingly Simple Secrets Of Success](/always-eat-left-handed/) by Rohit Bhargava
+
+[Brilliant, Crazy, Cocky: How the Top 1% of Entrepreneurs Profit from Global Chaos](/brilliant-crazy-cocky) by Sarah Lacy
 
 [Digital Body Language](/digital-body-language/) by Steven Woods
 
