@@ -27,7 +27,7 @@ These aren’t meant to be a Cliff’s Notes version or substitute for reading t
 
 [Smart & Gets Things Done](/smart-and-gets-things-done/) by Joel Spolsky
 
-[Startup Communities](http://laprade.org/startup-communities/) by Brad Feld
+[Startup Communities](/startup-communities/) by Brad Feld
 
 [Traction: A Startup Guide to Getting Customers](/traction/) by Gabriel Weinberg and Justin Mares
 

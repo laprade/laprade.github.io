@@ -5,6 +5,8 @@ permalink: brilliant-crazy-cocky
 ---
 These are the notes I took while reading [Brilliant, Crazy, Cocky: How the Top 1% of Entrepreneurs Profit from Global Chaos](http://www.amazon.com/Brilliant-Crazy-Cocky-Entrepreneurs-Profit/dp/0470580097) by Sarah Lacy.  While not typically a book meant for taking notes on, there are a few items I wanted to write down for future reference.
 
+Additional notes I've taken while reading other books can be found [here](/book-notes/).
+
 <!-- more -->
 
 ## The Death of Risk in America

@@ -6,6 +6,8 @@ permalink: always-eat-left-handed
 
 These are my personal notes that I have taken from reading [Always Eat Left Handed: 15 Surprisingly Simple Secrets Of Success](http://www.amazon.com/Always-Eat-Left-Handed-ebook/dp/B00DGV2V3O/). I only write down what I think I could possibly want to reference at some point in the future.  This isn’t meant to be a Cliff Notes version or a substitute for reading the book.
 
+Additional notes I've taken while reading other books can be found [here](/book-notes/).
+
 <!-- more -->
 
 Micro solutions are tiny lessons, fixes or "life hacks" that change small parts of your daily routine or help you overcome challenges. Any one of them may only have a small effect on your life, but collectively, they can make the difference between winning and losing.

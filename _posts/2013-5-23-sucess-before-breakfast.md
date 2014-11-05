@@ -1,10 +1,13 @@
---
+---
 layout: post
 title: What the Most Successful People Do Before Breakfast by Laura Vanderkam
 permalink: success-before-breakfast
---
+---
+
 
 These are the notes I have taken while reading [What the Most Successful People Do Before Breakfast](http://www.amazon.com/Successful-People-Breakfast-Mornings---ebook/dp/B007K3E2YK) by Laura Vanderkam. . This isn’t meant to be a Cliff Notes version or a substitute for reading the book.
+
+Additional notes I've taken while reading other books can be found [here](/book-notes/).
 
 <!-- more -->
 

@@ -4,8 +4,9 @@ title: Digital Body Language by Steven Woods
 permalink: digital-body-language
 ---
 
-
 These are the notes I took while reading [Digital Body Language](http://www.amazon.com/Digital-Body-Language-Steven-Woods/dp/0979988551) by Steven Woods. This isn’t meant to be a Cliff Notes version or a substitute for reading the book.
+
+Additional notes I've taken while reading other books can be found [here](/book-notes/).
 
 <!-- more -->
 
