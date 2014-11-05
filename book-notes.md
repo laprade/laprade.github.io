@@ -33,4 +33,4 @@ These aren’t meant to be a Cliff’s Notes version or substitute for reading t
 
 [The Ultralight Startup](/ultralight-startup/) by Jason L. Baptiste
 
-[What the Most Successful People Do Before Breakfast](http://laprade.org/what-the-most-successful-people-do-before-breakfast/) by Laura Vanderkam
+[What the Most Successful People Do Before Breakfast](/success-before-breakfast/) by Laura Vanderkam
