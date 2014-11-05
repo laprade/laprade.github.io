@@ -6,6 +6,7 @@ permalink: slicing-pie
 
 These are my the notes that I have taken while reading [Slicing Pie](http://www.amazon.com/Slicing-Pie-Funding-Company-Without/dp/0615700624/) by Mike Moyer. This isn’t meant to be a Cliff Notes’ version or a substitute for reading the book, so please support Mike and buy a copy of his book.
 
+Additional notes I've taken while reading other books can be found [here](/book-notes/).
 <!-- more -->
 
 ## Introduction
