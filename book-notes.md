@@ -15,7 +15,7 @@ These aren’t meant to be a Cliff’s Notes version or substitute for reading t
 
 [The Effective Executive](/effective-executive/) by Peter Drucker
 
-[Getting Real](http://laprade.org/getting-real) by 37 Signals
+[Getting Real](/getting-real) by 37 Signals
 
 [Getting Things Done](/getting-things-done/) by David Allen
 
