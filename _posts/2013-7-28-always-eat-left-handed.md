@@ -9,7 +9,7 @@ These are my personal notes that I have taken from reading [Always Eat Left Hand
 Additional notes I've taken while reading other books can be found [here](/book-notes/).
 
 <!-- more -->
-
+---
 Micro solutions are tiny lessons, fixes or "life hacks" that change small parts of your daily routine or help you overcome challenges. Any one of them may only have a small effect on your life, but collectively, they can make the difference between winning and losing.
 
 For example, eating left handed (so he didn't have to clean off his hand while eating to shake hands) at a networking event made Rohit Bhargava (the author) more approachable at networking events. A small change to eating left handed led to a shift in making deeper connections with fewer people at networking events.

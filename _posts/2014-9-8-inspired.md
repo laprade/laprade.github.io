@@ -274,5 +274,5 @@ The questions a PM is constantly asking himself/herself...
 10. Do I understand what the rest of the product team thinks is good about the product? Is it consistent with my own view?
 
 
-!["Inspired" by Marty Cagan](http://laprade.org/wp-content/uploads/2014/09/inspired_marty_kagan_vsco2.png)
+!["Inspired" by Marty Cagan](https://farm4.staticflickr.com/3949/15728800645_68a477f485_c.jpg)
 _Photo taken with VSCOcam_
