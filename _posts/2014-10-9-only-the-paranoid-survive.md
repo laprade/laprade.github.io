@@ -48,8 +48,8 @@ Porter's five forces that determine the competitive well being of a business
 
 There's also a sixth force, the force of complementors: other businesses customers buy complementary products that each company's product works better with or only works with.  Examples: cars need gasoline, gasoline needs cars.  Computers need software, software needs computers.
 
-![Six Market Forces](http://laprade.org/wp-content/uploads/2014/10/Only-the-Paranoid-Surive-Diagram-1.png)
-![Strategic Inflection Point](http://laprade.org/wp-content/uploads/2014/10/Only-the-Paranoid-Surive-Diagram-2.png)
+![Six Competitive Forces from "Only the Paranoid Survive"](https://farm8.staticflickr.com/7581/15108546754_3e80792f6b_c.jpg)
+![Strategic Inflection Point](https://farm8.staticflickr.com/7498/15108543354_30bac9ff91_c.jpg)
 
 With a strategic inflection point, a business either declines or ascends to new heights.  When does this inflection point happen? Even in retrospect, it's tough to pinpoint an exact moment - it happens in stages.
 
@@ -282,4 +282,4 @@ Mark Twain - "Put all your eggs in one basket and WATCH THAT BASKET"
 
 > If you're wrong, you will die. But most companies don't die because the are wrong; most die because they don't commit themselves.  They fritter away their momentum and their valuable resources while attempting to make a decision.  The greatest danger is standing still.
 
-![Only the Paranoid Survive](http://laprade.org/wp-content/uploads/2014/10/only-the-paranoid-survive.jpg)
+!["Only the Paranoid Survive" by Andy Grove](https://farm4.staticflickr.com/3953/15730050122_db2c891bd2_c.jpg)
