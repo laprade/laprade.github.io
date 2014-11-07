@@ -37,3 +37,5 @@ The Chinese internet is the largest in the world - and only about 20 percent of 
 ## India
 
 > Low tech, pooh-poohed SMS generates about $100 billion in annual revenues, where the consume Web generates just $75 billion, and $25 billion of that goes to Google.
+
+!["Brilliant, Crazy, Cocky" by Sarah Lacy](https://farm8.staticflickr.com/7496/15543160667_d7b1641656_c.jpg)
