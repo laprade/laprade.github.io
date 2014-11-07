@@ -108,6 +108,4 @@ Ask "what can I do to make this a great story for you?" Writers don't want gener
 
 Giveaways are a great media incentive - e.g. early invites or trials of a service.  The outlet can offer their audience something they can't get elsewhere.
 
-![The Ultralight Startup by Jason L. Baptiste](http://laprade.org/wp-content/uploads/2014/09/2014-09-24-08.58.53-1.jpg)
-
-_Photo taken with [VSCOcam](http://vsco.co/)._
+![The Ultralight Startup by Jason L. Baptiste](https://farm8.staticflickr.com/7474/15730265912_064781276c_c.jpg)
