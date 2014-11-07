@@ -21,6 +21,8 @@ These aren’t meant to be a Cliff’s Notes version or substitute for reading t
 
 [Getting Things Done](/getting-things-done/) by David Allen
 
+[The Innovator's Dilemma](/innovators-dilemma/) by Clay Christensen
+
 [Inspired: How To Create Products Customers Love](/inspired/) by Marty Cagan
 
 [Only the Paranoid Survive](/only-the-paranoid-survive/) by Andy Grove
