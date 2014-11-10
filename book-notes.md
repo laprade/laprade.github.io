@@ -21,6 +21,8 @@ These aren’t meant to be a Cliff’s Notes version or substitute for reading t
 
 [Getting Things Done](/getting-things-done/) by David Allen
 
+[High Output Management](/high-output-management/) by Andy Grove
+
 [The Innovator's Dilemma](/innovators-dilemma/) by Clay Christensen
 
 [Inspired: How To Create Products Customers Love](/inspired/) by Marty Cagan
