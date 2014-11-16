@@ -29,6 +29,8 @@ These aren’t meant to be a Cliff’s Notes version or substitute for reading t
 
 [Only the Paranoid Survive](/only-the-paranoid-survive/) by Andy Grove
 
+[Results Without Authority](/results-without-authority/) by Tom Kendrick
+
 [Slicing Pie](/slicing-pie/) by Mike Moyer
 
 [Smart & Gets Things Done](/smart-and-gets-things-done/) by Joel Spolsky
