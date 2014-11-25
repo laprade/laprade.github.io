@@ -71,7 +71,7 @@ Mass is increased by:
 - Inventory (physical or mental)
 - Hardware, software, technology lock-ins
 - Proprietary data formats
-- The past ruling the future</li>
+- The past ruling the future
 - Long-term roadmaps
 - Office politics
 
