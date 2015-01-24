@@ -58,15 +58,15 @@ Good influencers are also generally well liked. They are friendly and helpful.
 
 ### Project Work Considerations
 
-- **Ownership** => Every activity in a project needs an owner. Delegation of responsibility is a powerful motivator.
-- **Autonomy** => Ensure team members have as much control over methods, timing and other aspects of the work as possible.
-- **Preferred Work** => Whenever possible, delegate activities to contributors who have expressed interest in them and who enjoy doing work.
-- **New Skills** => There are generally opportunities for contributors to build new proficiencies.
-- **New Technology** => Sell the excitement of being on the bleeding edge.
-- **Uniqueness** => Play up the elements of your project that differentiate it from other projects.
-- **Challenge** => Outline the risks and difficult aspects of your project to contributors who thrive on a challenge and are bored with the mundane.
-- **Visibility** => The opportunity to be noticed within the organization.
-- **Reputation** => Even for high risk of failure projects, others may be simply impressed by the attempt.
+- **Ownership**: Every activity in a project needs an owner. Delegation of responsibility is a powerful motivator.
+- **Autonomy**: Ensure team members have as much control over methods, timing and other aspects of the work as possible.
+- **Preferred Work**: Whenever possible, delegate activities to contributors who have expressed interest in them and who enjoy doing work.
+- **New Skills**: There are generally opportunities for contributors to build new proficiencies.
+- **New Technology**: Sell the excitement of being on the bleeding edge.
+- **Uniqueness**: Play up the elements of your project that differentiate it from other projects.
+- **Challenge**: Outline the risks and difficult aspects of your project to contributors who thrive on a challenge and are bored with the mundane.
+- **Visibility**: The opportunity to be noticed within the organization.
+- **Reputation**: Even for high risk of failure projects, others may be simply impressed by the attempt.
 
 ### Lead by Example
 
@@ -104,10 +104,10 @@ Refine your understanding of each deliverable by keeping an "is" | "is not" list
 
 ## Confirming Roles
 
-- **Responsible** => The responsible party makes a commitment to do the work.
-- **Accountable** => The accountable party has the ultimate decision authority and bears consequences related to the objectives.  There can only be one "A," and this role may be combined with "R."
-- **Consulted** => Any stakeholder is consulted who could participate in planning and decision making.
-- **Informed** => Informed parties are regularly provided status on progress, decisions and other information to coordinate related work and facilitate collaboration.
+- **Responsible**: The responsible party makes a commitment to do the work.
+- **Accountable**: The accountable party has the ultimate decision authority and bears consequences related to the objectives.  There can only be one "A," and this role may be combined with "R."
+- **Consulted**: Any stakeholder is consulted who could participate in planning and decision making.
+- **Informed**: Informed parties are regularly provided status on progress, decisions and other information to coordinate related work and facilitate collaboration.
 
 ## Learning From History
 
