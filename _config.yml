@@ -4,25 +4,25 @@ relative_permalinks: true
 
 # Setup
 title:            Alex LaPrade
-url:              http://laprade.org
-shorturl:         laprade.org
+url:              http://lapra.de
+shorturl:         lapra.de
 paginate:         5
 baseurl:          /
 author:
   name:           'Alex LaPrade'
-  url:            http://laprade.org
-  email:          alex@laprade.org
+  url:            http://lapra.de
+  email:          alex@lapra.de
 
 # Custom vars
 version:          1.0.0
 github:
   repo:
+twitter_username: @alexlaprade
+github_username:  laprade
+
 
 pages_list:
   About: '/about/'
   Book Notes: '/book-notes/'
   Blog Posts: '/blog-posts/'
   Contact: '/contact/'
-
-# Look at => Allow URL Redirects:
-#  * https://help.github.com/articles/redirects-on-github-pages
