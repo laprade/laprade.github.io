@@ -37,8 +37,10 @@ These aren’t meant to be a Cliff’s Notes version or substitute for reading t
 
 [Startup Communities](/startup-communities/) by Brad Feld
 
-[Traction: A Startup Guide to Getting Customers](/traction/) by Gabriel Weinberg and Justin Mares
+[Traction: A Startup Guide to Getting Customers](/traction/) by Gabriel Weinberg & Justin Mares
 
 [The Ultralight Startup](/ultralight-startup/) by Jason L. Baptiste
 
 [What the Most Successful People Do Before Breakfast](/success-before-breakfast/) by Laura Vanderkam
+
+[Zero to One](/zero-to-one/) by Peter Thiel & Blake Masters
