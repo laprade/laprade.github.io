@@ -5,7 +5,7 @@ title: Contact
 
 Email is my preferred communication method.
 
-Email: alex [at] laprade.org
+Email: alex [at] lapra.de
 
 If you feel compelled to be social...
 

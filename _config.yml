@@ -1,11 +1,12 @@
 # Permalinks
+permalink:        pretty
 relative_permalinks: true
 
 # Setup
 title:            Alex LaPrade
 url:              http://lapra.de
 shorturl:         lapra.de
-paginate:         5
+paginate:         10
 baseurl:          /
 author:
   name:           'Alex LaPrade'
@@ -16,7 +17,6 @@ author:
 version:          1.0.0
 github:
   repo:
-
 
 pages_list:
   About: '/about/'
