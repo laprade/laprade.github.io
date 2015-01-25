@@ -1,5 +1,4 @@
 # Permalinks
-permalink:        pretty
 relative_permalinks: true
 
 # Setup
@@ -17,8 +16,6 @@ author:
 version:          1.0.0
 github:
   repo:
-twitter_username: @alexlaprade
-github_username:  laprade
 
 
 pages_list:
