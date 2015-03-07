@@ -12,7 +12,9 @@
  * Themes
  */
 
-@import url('http://fonts.googleapis.com/css?family=Open+Sans');
+
+@import url(http://fonts.googleapis.com/css?family=Merriweather:300);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:700);
 
 * {
   -webkit-box-sizing: border-box;
@@ -27,7 +29,7 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 1.8rem;
   line-height: 1.8em;
 }
@@ -38,8 +40,7 @@ html {
 }
 
 body {
-  font-family: 'Open Sans', sans-serif;
-  /* Web font first seen on http://csswizardry.com */
+  font-family: 'Merriweather', serif;
   color: #4d4d4d;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
@@ -223,7 +224,7 @@ th {
 }
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
-  background-color: #f9f9f9;
+  background-color: #fdfdfd;
 }
 
 
@@ -243,7 +244,7 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 1rem;
   padding: 1rem;
   color: #717171;
-  background-color: #f9f9f9;
+  background-color: #fdfdfd;
 }
 
 .container {
@@ -309,7 +310,7 @@ tbody tr:nth-child(odd) th {
 /* Meta data line below post title */
 .post-date {
   display: block;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Merriweather', serif;
   font-size: .8rem;
   margin-top: -.5rem;
   margin-bottom: .5rem;
