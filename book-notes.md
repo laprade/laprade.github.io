@@ -27,6 +27,8 @@ These aren’t meant to be a Cliff’s Notes version or substitute for reading t
 
 [Inspired: How To Create Products Customers Love](/inspired/) by Marty Cagan
 
+[Intercom on Product Management](/intercom-product-management/)
+
 [Only the Paranoid Survive](/only-the-paranoid-survive/) by Andy Grove
 
 [Results Without Authority](/results-without-authority/) by Tom Kendrick
