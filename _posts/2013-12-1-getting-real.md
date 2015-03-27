@@ -7,6 +7,8 @@ permalink: getting-real
 These are the notes I took while reading [Getting Real](http://www.amazon.com/Getting-Real-Smarter-Successful-Application/dp/0578012812) by 37 Signals. This isn’t meant to be a Cliff Notes version or a substitute for reading the book.
 
 Additional notes I've taken while reading other books can be found [here](/book-notes/).
+
+**March 27, 2015 update**: This book is now available for free [download](https://gettingreal.37signals.com/).
 <!-- more -->
 
 ## The Starting Line
