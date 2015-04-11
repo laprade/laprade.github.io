@@ -2,6 +2,7 @@
 layout: page
 title: Blog Posts
 ---
-Some of the better blog posts I've written.
+[Product Lessons I learned at Angie's List](/product-lessons-angies-list/)
+
 
 Still migrating posts from WordPress...
