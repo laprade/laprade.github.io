@@ -39,6 +39,8 @@ These aren’t meant to be a Cliff’s Notes version or substitute for reading t
 
 [Startup Communities](/startup-communities/) by Brad Feld
 
+[Talking to Humans](/talking-to-humans/) by Giff Constable
+
 [Traction: A Startup Guide to Getting Customers](/traction/) by Gabriel Weinberg & Justin Mares
 
 [The Ultralight Startup](/ultralight-startup/) by Jason L. Baptiste
