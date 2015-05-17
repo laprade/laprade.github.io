@@ -6,4 +6,6 @@ title: Blog Posts
 
 2014-12-8: [Product Lessons I learned at Angie's List](/product-lessons-angies-list/)
 
+2013-4-8: [Will the numbers behind volume investing change your thoughts on crowdfunding?](/crowdfunding)
+
 There are some old posts on a WordPress version of this blog that I am deciding if are good enough to be worth migrating.
