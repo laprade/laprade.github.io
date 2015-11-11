@@ -11,6 +11,8 @@ These aren’t meant to be a Cliff’s Notes version or substitute for reading t
 
 [Brilliant, Crazy, Cocky: How the Top 1% of Entrepreneurs Profit from Global Chaos](/brilliant-crazy-cocky) by Sarah Lacy
 
+[Designing for Emotion](/designing-for-emotion) by Aaron Walter
+
 [Digital Body Language](/digital-body-language/) by Steven Woods
 
 [The Effective Executive](/effective-executive/) by Peter Drucker

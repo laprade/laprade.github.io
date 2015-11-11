@@ -6,6 +6,8 @@ permalink: solve-problems
 
 All too often when you look at a roadmap, it's a pretty chart with a list of features and dates oriented around answering "what features/things are we building next?"
 
+<!-- more -->
+
 Similarly, too many user feedback forms are focused on asking "what features are we missing?" or "what feature would you like to see?"
 
 It's as if one additional feature is going to be the difference between someone using your product or not.
