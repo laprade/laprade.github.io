@@ -3,7 +3,7 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-#title:            Alex LaPrade
+title:            Alex LaPrade
 url:              http://lapra.de
 shorturl:         lapra.de
 paginate:         10
