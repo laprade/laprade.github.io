@@ -35,20 +35,49 @@
  */
 
 /* Prevent scroll on narrow devices */
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic);
+
+
 html,
 body {
   overflow-x: hidden;
+  line-height: 1.8rem;
 }
 
 html {
-  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1;
+  margin-top: 0;
+  margin-bottom: .5rem;
   font-weight: 400;
-  color: #313131;
-  letter-spacing: -.025rem;
+  line-height: 2rem;
+  color: #4a4a4a;
+  text-rendering: optimizeLegibility;
+}
+
+h1 {
+  font-size: 1.75rem;
+}
+h2 {
+  margin-top: 1rem;
+  font-size: 1.5rem;
+}
+h3 {
+  margin-top: 1.5rem;
+  font-size: 1.25rem;
+}
+h4, h5, h6 {
+  margin-top: 1rem;
+  font-size: 1rem;
+}
+
+p {
+  font-weight: 300;
 }
 
 
@@ -148,7 +177,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
@@ -200,6 +229,15 @@ a.sidebar-nav-item:focus {
   }
 }
 
+.layout-reverse .sidebar {
+  left: auto;
+  right: -14rem;
+}
+.layout-reverse .sidebar-toggle {
+  left: auto;
+  right: 1rem;
+}
+
 /* Hide the sidebar checkbox that we toggle with `.sidebar-toggle` */
 .sidebar-checkbox {
   position: absolute;
@@ -239,6 +277,25 @@ a.sidebar-nav-item:focus {
   color: #fff;
   background-color: #555;
 }
+
+---
+.layout-reverse .sidebar {
+  left: auto;
+  right: -14rem;
+}
+.layout-reverse .sidebar-toggle {
+  left: auto;
+  right: 1rem;
+}
+
+.layout-reverse #sidebar-checkbox:checked ~ .sidebar,
+.layout-reverse #sidebar-checkbox:checked ~ .wrap,
+.layout-reverse #sidebar-checkbox:checked ~ .sidebar-toggle {
+  -webkit-transform: translateX(-14rem);
+      -ms-transform: translateX(-14rem);
+          transform: translateX(-14rem);
+}
+---
 
 .sidebar-toggle:active:before,
 #sidebar-checkbox:focus ~ .sidebar-toggle:before,
@@ -368,7 +425,7 @@ a.sidebar-nav-item:focus {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #ccc;
   text-align: center;
 }
@@ -545,7 +602,7 @@ a.pagination-item:hover {
  * aside when toggled.
  */
 
-.sidebar-overlay #sidebar-checkbox:checked ~ .wrap {
+{
   -webkit-transform: translateX(0);
       -ms-transform: translateX(0);
           transform: translateX(0);
