@@ -6,6 +6,8 @@ permalink: product-lessons-angies-list
 
 These are product lessons I learned while working at Angie's List. They have very little to do with Angie's List (the company) or the products that I was fortunate enough to work on.  Most of these lessons have been echoed by someone else (or multiple people) somewhere on the internet but seeing them firsthand makes a world of difference.
 
+<!-- more -->
+
 ## PM's are judged by the outcomes of their product(s)
 The most important lesson I learned is that PM's are judged by the outcomes of their product(s).  It doesn't matter how hard you work, if you're smart or if you have lots of good ideas. The product's metrics / success of the product is one and the same with the measure of a PM's performance.  Therefore, you should hang your hat on the final product, regardless of where ideas came from or how you got there.
 

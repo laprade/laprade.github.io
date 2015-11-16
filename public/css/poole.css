@@ -148,16 +148,12 @@ abbr[title] {
 }
 
 /* Code */
-code,
-pre {
-  font-family: Menlo, Monaco, "Courier New", monospace;
-}
+
 code {
-  padding: .25em .5em;
-  font-size: 85%;
-  color: #bf616a;
-  background-color: #f9f9f9;
-  border-radius: 3px;
+  color: inherit;
+  font-family: inherit;
+  background-color: yellow;
+  /* border-radius: 3px; */
 }
 pre {
   display: block;
@@ -216,6 +212,7 @@ blockquote {
   margin: .8rem 0;
   color: #7a7a7a;
   border-left: .25rem solid #e5e5e5;
+  font-style: italic;
 }
 blockquote p:last-child {
   margin-bottom: 0;

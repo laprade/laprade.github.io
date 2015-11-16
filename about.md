@@ -7,6 +7,12 @@ Hi, I'm Alex. I’m currently a product manager at [Dispatch](http://dispatch.me
 
 I also [read](/book-notes/) a lot.
 
-This blog is built with [Jekyll](http://jekyllrb.com), hosted by [GitHub Pages](https://pages.github.com/) and uses CloudFlare's CDN.  
+---
 
-The GitHub repo can found [here](https://github.com/laprade/laprade.github.io).
+Please get in touch
+
+Twitter: [@alexlaprade](http://www.twitter.com/alexlaprade)
+
+Email: alex@lapra.de
+
+LinkedIn: [in/alexlaprade](http://www.linkedin.com/in/alexlaprade)
