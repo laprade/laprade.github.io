@@ -9,7 +9,7 @@ I also [read](/book-notes/) a lot.
 
 ---
 
-Please get in touch
+Please don't hesitate to get in touch
 
 Twitter: [@alexlaprade](http://www.twitter.com/alexlaprade)
 

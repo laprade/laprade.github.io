@@ -44,6 +44,7 @@ body {
   overflow-x: hidden;
   line-height: 2rem;
   color: #6D6D6D;
+  font-weight: 300;
 }
 
 html {
@@ -196,6 +197,7 @@ p {
   font-weight: normal;
   color: #fff;
 }
+
 .sidebar-item {
   padding: 2rem;
 }
