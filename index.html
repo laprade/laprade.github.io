@@ -2,46 +2,36 @@
 layout: default
 title: Home
 ---
-
-<div class="posts">
-  {% for post in paginator.posts %}
-  <article class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <!-- <time datetime="{{ page.date | date: '%B %d, %Y' }}" class="post-date">{{ page.date | date: '%B %d, %Y' }}</time> -->
-
-     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: '%B %-d, %Y' }}</time>
-
-<div class="post-content-truncate">
-  {% if post.content contains "<!-- more -->" %}
-    {{ post.content | split:"<!-- more -->" | first % }}
-  {% else %}
-    {{ post.content | strip_html | truncatewords:100 }}
-  {% endif %}
-</div>
-<!-- Formatting for the more tag from => http://truongtx.me/2013/05/01/jekyll-read-more-feature-without-any-plugin/ -->
-
-  </article>
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+<section class="row">
+    <h1>About</h1>
+    <p class="span4 no-pad">I'm a product manager at <a href="http://dispatch.me">Dispatch</a> in Boston, MA. I used to be a product manager at Angie's List.</p>
+</section>
+<section id="blog-list" class="row">
+    <h1>Blog Posts</h1>
+    <p>Here's a list of the better of the blog posts I've written. The full list is <a href="/blog-posts">here</a>.</p>
+    <ul class="span4 unstyled">
+        <li>
+            <a href="/product-lessons-angies-list/">Product Lessons I learned at Angie's List</a> [Dec 2014]
+        </li>
+        <li>
+            <a href="/solve-problems">Don't build features, solve problems</a> [April 2015]
+        </li>
+        <li>
+            <a href="/recruiting">What I've learned about recruiting</a> [Nov 2015]
+        </li>
+    </ul>
+</section>
+<section class="row">
+    <h1>Book Notes</h1>
+            <p>I read a lot of books and (try) to type what I highlighted for future reference. <a href="/book-notes">Here</a> is the full list I've found the time to type up and publish.
+            </p>
+</section>
+<section class="row">
+    <h1>Say Hi</h1>
+    <p>Send me a message if you think I can be helpful in any way, and I'll be sure to you one back.</p>
+    <ul>
+        <li><a href="https://twitter.com/alexlaprade">Twitter</a></li>
+        <li><a href="http://www.linkedin.com/in/alexlaprade">LinkedIn</a></li>
+        <li>alex@lapra.de</li>
+    </ul>
+</section>
