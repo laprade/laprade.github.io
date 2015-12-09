@@ -33,7 +33,7 @@ There's no way you can go through documenting the entire experience of a feature
 There's also a sense of correctness and confidence your engineers have that you're building the right thing and have thought through every scenario and shown real care for your user - error states, active/inactive items, etc.
 
 ## Good PM's write
-This is a Ben Horowitz-ism from ["Good Product Manager, Bad Product Manager"](http://web.stanford.edu/class/e140/e140a/handouts/ProductMgmt.txt) (and pretty self-explanatory)
+This is a Ben Horowitz-ism from ["Good Product Manager, Bad Product Manager"](http://a16z.com/2012/06/15/good-product-managerbad-product-manager/) (and pretty self-explanatory)
 
 > Good product managers communicate crisply to engineering in writing as well as verbally. Good product managers don't give direction informally.
 
