@@ -2,7 +2,6 @@
 layout: page
 title: Blog Posts
 ---
-2015-12-8: [What makes a great PM?](/great-pm/)
 
 2015-11-15: [What I've learned about recruiting](/recruiting)
 
