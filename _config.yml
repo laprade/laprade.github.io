@@ -1,6 +1,8 @@
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+# relative_permalinks: true
+# removed on Aug 17, 2016
+# per https://help.github.com/articles/page-build-failed-relative-permalinks-configured/
 
 # Setup
 title:            Alex LaPrade
