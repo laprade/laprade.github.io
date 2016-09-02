@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DRAFT) QA Metrics
+title: (DRAFT) 3 Metrics to measure QA effectiveness
 permalink: qa-metrics
 ---
 
@@ -30,8 +30,8 @@ It's not the number of tickets created, bugs found, time spent testing or test c
 
 > If you ask anyone at a well-run organization what the company’s top goals are, not only can they tell you what they are, but they can tell you exactly how their own work feeds into them. - [Keith Rabois](http://techcrunch.com/2016/05/12/lattice-be-productive/)
 
-1. **Bugs in production that require a hot fix**. There are always going to be bugs. As long as [a] we know where the bodies are buried ahead of time and [b] don’t introduce bugs that require hot fixes (since we don’t currently have a good sev1, sev2, sev3, etc. definition). Desired outcome: confidence in what we are ship being "high quality"
+1. **Bugs in production that require a hot fix**. There are always going to be bugs. As long as [a] we know where the bodies are buried ahead of time and [b] don’t introduce bugs that require hot fixes (since we don’t currently have a good sev1, sev2, sev3, etc. definition). Desired outcome: confidence in what we are ship being "high quality". We could also go one step further and measure time from when a production bug was found and had to be swapped into a current sprint from one of our engineering teams.
 
 2. **Time from when a release candidate is in a staging environment to when it has been fully tested**. Note: not time until green lit - just fully tested. Desired outcome: every day code is sitting in a release candidate branch, it grows stale when it could be helping make our users’ lives better. Let's deploy it or fix it. Don't let it just sit there.
 
-3. **Time from when a ticket is merged into a dev environment to when the ticket is accepted or re-opened**. Desired outcome: context switching is tough for an engineer. We should strive to accept or re-open the ticket when the work is as fresh as possible in the engineer’s head.
+3. **Time from when a ticket is re-assigned to be accepted to when the ticket is accepted or re-opened**. Desired outcome: context switching is tough for an engineer. We should strive to accept or re-open the ticket when the work is as fresh as possible in the engineer’s head.
