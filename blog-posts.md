@@ -3,6 +3,10 @@ layout: page
 title: Blog Posts
 ---
 
+2016-08-30: [(DRAFT) 3 Metrics to measure QA effectiveness](/qa-metrics)
+
+2016-01-30: [You’ll reap the benefit of dedicated QA sooner than you think](/dedicated-qa)
+
 2015-11-15: [What I've learned about recruiting](/recruiting)
 
 2015-4-28: [Don't build features, solve problems](/solve-problems)
