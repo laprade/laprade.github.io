@@ -39,6 +39,14 @@
 /* @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic); */
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,300italic,700,100);
 
+
+@font-face {
+    font-family: FreightTextPro;
+    src: url(/fonts/FreightTextProLig.otf);
+    font-weight: 300;
+  }
+
+
 html,
 body {
   overflow-x: hidden;
@@ -48,15 +56,16 @@ body {
 }
 
 html {
-  font-family: 'Lato', sans-serif;
+  font-family: 'FreightTextPro', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Lato','Open Sans', sans-serif;
   line-height: 1;
   margin-top: 0;
   margin-bottom: .5rem;
-  font-weight: 400;
+  margin-top: .8em;
+  font-weight: 700;
   line-height: 2rem;
   color: #4a4a4a;
   text-rendering: optimizeLegibility;
@@ -80,6 +89,7 @@ h4, h5, h6 {
 
 p {
   font-weight: 300;
+  color: #515151;
 }
 
 
@@ -352,6 +362,8 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title {
   margin-top: 0;
+  padding-right: 1.4em;
+
 }
 
 /* Meta data line below post title */

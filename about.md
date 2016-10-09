@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Hi, I'm Alex. I’m currently a product manager at [Dispatch](http://dispatch.me).  Previously, I was a product manager at Angie’s List. While I was there, I worked on 
+Hi, I'm Alex LaPrade. I’m currently a product manager at [Dispatch](http://dispatch.me).  Previously, I was a product manager at Angie’s List. While I was there, I worked on 
 
 * the SnapFix iOS app / Android app / web widget
 * the core Angie's List iOS/Android mobile apps
