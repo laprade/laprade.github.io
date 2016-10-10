@@ -13,8 +13,8 @@
     <div class="wrap">
               {% include sidebar.html %}
       </div>
-      <div class="container content">
 
+      <div class="container content">
         {{ content }}
       </div>
     </div>
@@ -38,5 +38,7 @@
         }, false);
       })(document);
     </script>
+        {% include google_analytics.html %}
+
   </body>
 </html>

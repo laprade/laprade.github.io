@@ -16,13 +16,14 @@ I believe the better question we all should be asking is: **"What problem should
 
 Your roadmap shouldn't be a list of all the features you're going to build next.  It should be problem-driven and oriented around which problems you're going to solve next.
 
+
 _Sidenote: At [Dispatch](http://dispatch.me), we maintain three roadmaps:_
 
 _1. One is a list of features for external communication to our users and customers._
 
 _2. The second roadmap is an internal Trello board used to guide product prioritization with a list of problems and ordered by what problem we're going to solving next._
 
-_3. The anti-roadmap of what we are NOT going to build._
+_3. The anti-roadmap of what we are NOT going to build._`
 
 ## The benefits of framing & communicating everything as problems
 
