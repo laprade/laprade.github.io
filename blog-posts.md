@@ -3,16 +3,26 @@ layout: page
 title: Blog Posts
 ---
 
-2016-08-30: [(DRAFT) 3 Metrics to measure QA effectiveness](/qa-metrics)
+Sorted (manually) by topic. Most are posted as drafts. Just like apps have betas, why can’t blog posts have “draft” status while they are still WIP?
 
-2016-01-30: [You’ll reap the benefit of dedicated QA sooner than you think](/dedicated-qa)
+## Product
 
-2015-11-15: [What I've learned about recruiting](/recruiting)
+[Don't build features, solve problems](/solve-problems) [April 2015]
 
-2015-4-28: [Don't build features, solve problems](/solve-problems)
+[Product Lessons I learned at Angie's List](/product-lessons-angies-list/) [Dec 2014]
 
-2014-12-8: [Product Lessons I learned at Angie's List](/product-lessons-angies-list/)
+## QA
 
-2013-4-8: [Will the numbers behind volume investing change your thoughts on crowdfunding?](/crowdfunding)
+[(DRAFT) 3 Metrics to measure QA effectiveness](/qa-metrics) [Aug 2016]
 
-There are some old posts on a WordPress version of this blog that I am deciding if are good enough to be worth migrating.
+[You’ll reap the benefit of dedicated QA sooner than you think](/dedicated-qa) [Jan 2016]
+
+## Productivity
+
+[The Value of Writing](/writing/) [Sep 2014]
+
+## Misc. / Other
+
+[What I've learned about recruiting](/recruiting) [Nov 2015]
+
+[Will the numbers behind volume investing change your thoughts on crowdfunding?](/crowdfunding) [Mar 2013]
