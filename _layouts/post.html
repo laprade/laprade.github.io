@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% include head.html %} 
 
 <article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
@@ -20,13 +21,13 @@ layout: default
             {{ post.title }}
             <small><time datetime="{{ page.date | date: '%B %-d, %Y' }}">{{ page.date | date: '%B %-d, %Y' }}</time></small>
 
-            
+
             Help with date formatting comes from here => http://alanwsmith.com/jekyll-liquid-date-formatting-examples
-          
+
           </a>
         </h3>
       </li>
     {% endfor %}
   </ul>
 </aside>
---> 
+-->
