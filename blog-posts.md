@@ -17,6 +17,8 @@ Sorted (manually) by topic. Most are posted as drafts. Just like apps have betas
 
 [You’ll reap the benefit of dedicated QA sooner than you think](/dedicated-qa) [Jan 2016]
 
+[What makes a good bug report?](/writing-bug-reports) [Sep 2016]
+
 ## Productivity
 
 [The Value of Writing](/writing/) [Sep 2014]
