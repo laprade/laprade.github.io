@@ -90,22 +90,46 @@ h4, h5, h6 {
 
 p {
   font-weight: 300;
-  color: #515151;
+  color: #4d4D4DS;
 }
 
 a {
   text-decoration: none;
-  color: #303F9F;
-  border-bottom: 3px solid #7ef1f9;
+  color: #0D47A1;
+  border-bottom: 3px solid #008AFF;
 }
+
 
 a:hover,
 a:focus {
-  background-color: #7ef1f9;
+  background-color: #008AFF;
 }
 
 li.nav_logo {
   float: left;
+}
+
+/*
+This is an alternate version of the class to have a border around
+the profile photo.
+li.nav_logo {
+  float: left;
+  border: 3px solid #008AFF;
+    border-radius: 10px;
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+}
+*/
+
+/* This is an override for link formatting */
+li.nav_logo a {
+  border-bottom: none;
+}
+
+/* This is an override for link formatting */
+li.nav_logo a:hover,
+li.nav_logo a:focus {
+  background-color: white;
 }
 
 ul.navigation {
@@ -129,10 +153,13 @@ li.navigation a {
   font-family: 'Lato','Open Sans', sans-serif;
   text-rendering: optimizeLegibility;
   font-weight: bold;
+  border-bottom: none;
 }
 
 li.navigation a:hover {
-  background-color: red;
+  /* White background here is an override on link formatting */
+  background-color: white;
+  color: #008AFF;
 }
 
 li.navigation .active {
